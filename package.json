@@ -1,0 +1,18 @@
+{
+	"name": "how-to-get-clean-web-data-for-chatbots-and-llms",
+	"version": "0.0.1",
+	"description": "This is a conference talk companion repo.",
+	"type": "module",
+	"dependencies": {
+		"@mozilla/readability": "^0.4.4",
+		"apify": "^3.1.12",
+		"crawlee": "^3.5.8",
+		"d3-dsv": "^2.0.0",
+		"jsdom": "^22.1.0",
+		"langchain": "^0.0.171",
+		"playwright": "^1.39.0",
+		"turndown": "^7.1.2"
+	},
+	"author": "Ondra Urban",
+	"license": "ISC"
+}
